@@ -1,0 +1,58 @@
+body {
+    background-image: url(IMG/anchor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.kkk{
+   text-align: center; 
+}
+
+img{
+   margin: 30px;
+}
+
+.vamp{
+  margin:10px;
+    height: 20px;
+    width: 250px;
+    border-color: transparent;
+    border-bottom: 1px solid blueviolet;
+    border-radius: 20px;
+    background-color: transparent;
+}
+
+.forms{
+    font-family: 'bahnschrift';
+}
+
+.dif{
+    margin:15px;
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+}
+
+.btn{
+    font-family: 'bauhaus 93';
+    color: #d9d9d9;
+    background-color: deeppink;
+}
+
+.btn:hover{
+    color: white;
+}
+
+.pics{
+    margin: 0px;
+}
+
+.input-class{
+    padding: 15px;
+    
+}
+
+.lst-line{
+    padding: 15px;
+    margin: 10px;
+}
